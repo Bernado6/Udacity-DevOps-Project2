@@ -1,0 +1,27 @@
+
+.body{
+    background-color: #2A293E;
+
+}
+.container{
+    background: #2A293E;
+    height: 100%;
+
+}
+.section-title{
+    color: darkturquoise;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: inherit;    
+}
+
+.text{
+    
+    color: white;
+    height: 100%;
+    font-family: cursive;
+}
+
+.welcome{
+    color: #e8590c;
+    font-family: sans-serif;
+}
